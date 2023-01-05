@@ -1,3 +1,3 @@
-module github.com/MrMentalFlower/tofu.git
+module tofu
 
 go 1.19
