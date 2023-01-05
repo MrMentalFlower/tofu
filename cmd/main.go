@@ -17,7 +17,7 @@ package main
 import (
 	"fmt"
 
-	"tofu/pkg/cmd/commands"
+	"github.com/MrMentalFlower/tofu/pkg/cmd/commands"
 )
 
 func main() {
